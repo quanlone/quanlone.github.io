@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanlone.github.io</id>
     <title>LiuQuanlong&apos;s blog</title>
-    <updated>2020-12-19T13:13:41.151Z</updated>
+    <updated>2020-12-19T13:16:00.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanlone.github.io"/>
     <link rel="self" href="https://quanlone.github.io/atom.xml"/>
@@ -77,9 +77,6 @@
 <p>​	下载PicGo, 在github内创建一个仓库作为图床,分支也改为: main</p>
 </li>
 </ul>
-<!-- more -->
-<p>经过以上步骤后你可以在Gridea内写博客并同步到Github,可能访问速度会很慢. 但是嗯哼(甩手)<br>
-Thank you Dr. Waston</p>
 ]]></content>
     </entry>
 </feed>
