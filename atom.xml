@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanlone.github.io</id>
     <title>LiuQuanlong&apos;s blog</title>
-    <updated>2020-12-19T13:16:00.949Z</updated>
+    <updated>2020-12-19T13:17:52.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanlone.github.io"/>
     <link rel="self" href="https://quanlone.github.io/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="https://quanlone.github.io/post/how-to-start-your-blog/">
         </link>
         <updated>2020-12-19T09:53:28.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="how-to-start-your-blog">How to start your blog?</h1>
-<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/quanlone/Picbed_PicGo/main/1469390cf05bc4672789ee25f914f36.jpg" alt="" loading="lazy"></figure>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/quanlone/Picbed_PicGo/main/1469390cf05bc4672789ee25f914f36.jpg" alt="" loading="lazy"></figure>
 <blockquote>
 <p>Inspired by Dr. Watson</p>
 </blockquote>
+<h1 id="how-to-start-your-blog">How to start your blog?</h1>
 <p>链接里这位博主写的很好不过, 有一个点需要补充就是github里的分支在早些已经更新,从master这样带有主仆意味的词改成main.</p>
 <blockquote>
 <p>一周进步: https://www.zhihu.com/question/20962496</p>
@@ -47,11 +47,11 @@
 </li>
 </ul>
 ]]></summary>
-        <content type="html"><![CDATA[<h1 id="how-to-start-your-blog">How to start your blog?</h1>
-<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/quanlone/Picbed_PicGo/main/1469390cf05bc4672789ee25f914f36.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/quanlone/Picbed_PicGo/main/1469390cf05bc4672789ee25f914f36.jpg" alt="" loading="lazy"></figure>
 <blockquote>
 <p>Inspired by Dr. Watson</p>
 </blockquote>
+<h1 id="how-to-start-your-blog">How to start your blog?</h1>
 <p>链接里这位博主写的很好不过, 有一个点需要补充就是github里的分支在早些已经更新,从master这样带有主仆意味的词改成main.</p>
 <blockquote>
 <p>一周进步: https://www.zhihu.com/question/20962496</p>
