@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanlone.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-12-19T09:38:43.406Z</updated>
+    <title>LiuQuanlong&apos;s blog</title>
+    <updated>2020-12-19T09:47:27.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanlone.github.io"/>
     <link rel="self" href="https://quanlone.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>LiuQuanlong&apos;s blog</subtitle>
     <logo>https://quanlone.github.io/images/avatar.png</logo>
     <icon>https://quanlone.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, LiuQuanlong&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[start your blog]]></title>
         <id>https://quanlone.github.io/post/start-your-blog/</id>
