@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanlone.github.io</id>
     <title>LiuQuanlong&apos;s blog</title>
-    <updated>2020-12-20T11:32:02.365Z</updated>
+    <updated>2020-12-22T15:08:20.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanlone.github.io"/>
     <link rel="self" href="https://quanlone.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://quanlone.github.io/images/avatar.png</logo>
     <icon>https://quanlone.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, LiuQuanlong&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[热河]]></title>
+        <id>https://quanlone.github.io/YV9rGX-lY/</id>
+        <link href="https://quanlone.github.io/YV9rGX-lY/">
+        </link>
+        <updated>2020-12-22T15:05:10.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winter is coming]]></title>
         <id>https://quanlone.github.io/winter-is-coming/</id>
